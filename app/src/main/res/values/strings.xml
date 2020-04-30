@@ -3,4 +3,7 @@
     <string name="app_name">Photos</string>
 
     <string name="albums">Albums</string>
+
+    <!-- DEFAULT EMPTY TEXT VIEW -->
+    <string name="title">Title</string>
 </resources>
