@@ -10,7 +10,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.NoActionBar">
-        <activity android:name="com.manoelh.photos.ui.AlbumActivity"
+        <activity android:name="com.manoelh.photos.ui.album.AlbumActivity"
             android:screenOrientation="sensor"
             android:configChanges="orientation|screenSize">
             <intent-filter>
